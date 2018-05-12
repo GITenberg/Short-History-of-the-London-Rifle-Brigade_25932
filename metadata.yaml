@@ -1,0 +1,27 @@
+_repo: Short-History-of-the-London-Rifle-Brigade_25932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25932'
+  lccn: '80105103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. London Rifle Brigade'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcc 'D501'
+title: Short History of the London Rifle Brigade
+url: http://www.gutenberg.org/ebooks/25932
